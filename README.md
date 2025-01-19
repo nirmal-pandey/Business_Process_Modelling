@@ -5,22 +5,21 @@ This repository contains Business Process Modeling Notation (BPMN) and Unified M
 
 # Contents
 # BPMN Diagrams:
-Visualizations of customer interactions with the shop, including the process of selecting products, making payments, and completing transactions.
+Visualizations of customer interactions with the shop, including the process of selecting products, accepting or decling the offer,  making payments, and completing transactions, receving goods.
 
 # UML Diagrams:
-System-level models that describe how customers and the shop's backend system interact. Includes use cases, class structures, and sequence flows.
+System-level models that describe how customers and the shop's backend system interact.
 
 ##  Diagrams Included
 # BPMN Diagrams
 
-Customer Purchase Process: Depicts the step-by-step process of customer browsing, selecting products, and completing a purchase.
-Payment Flow: Illustrates the interaction between the customer and the payment system, including decision points like payment method selection and payment validation.
+Customer Purchase Process: Depicts the step-by-step process of customer taking decisions, selecting products, and completing a purchase.
+Payment Flow: Illustrates the interaction between the customer and the payment system, including decision points like payment validation, payment invoice sending.
+Goods Dispatch and Receiving: Illustrates the dispatching of goods from shop after payment confirmation and receiving of goods by customer along with invoice. 
 
 # UML Diagrams
 
-Use Case Diagram: High-level representation of customer interactions with the shop system, including browsing products, making purchases, and processing payments.
-Class Diagram: Defines the structure of the system, including customer, product, and payment classes, with relationships between entities.
-Sequence Diagram: Details the interactions between customer and system objects during the purchase process, from product selection to payment completion.
+Use Case Diagram: Representation of customer interactions with the shop, customers and processing payments, dispatching goods, receiving them.
 
 # Tools Used
 BPMN: For modeling customer-shop interactions and business workflows.
