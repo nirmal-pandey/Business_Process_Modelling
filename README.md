@@ -4,13 +4,13 @@
 This repository contains Business Process Modeling Notation (BPMN) and Unified Modeling Language (UML) diagrams representing a simple shop and customer interaction. The models aim to visualize key business processes, such as customer purchasing behavior, product selection, payment processing, and interaction flow within a shop environment.
 
 # Contents
-# BPMN Diagrams:
+ BPMN Diagrams:
 Visualizations of customer interactions with the shop, including the process of selecting products, accepting or decling the offer,  making payments, and completing transactions, receving goods.
 
-# UML Diagrams:
+ UML Diagrams:
 System-level models that describe how customers and the shop's backend system interact.
 
-##  Diagrams Included
+#  Diagrams Included
  BPMN Diagrams
 
 Customer Purchase Process: Depicts the step-by-step process of customer taking decisions, selecting products, and completing a purchase.
