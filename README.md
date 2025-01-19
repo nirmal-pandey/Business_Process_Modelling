@@ -11,13 +11,13 @@ Visualizations of customer interactions with the shop, including the process of 
 System-level models that describe how customers and the shop's backend system interact.
 
 ##  Diagrams Included
-# BPMN Diagrams
+ BPMN Diagrams
 
 Customer Purchase Process: Depicts the step-by-step process of customer taking decisions, selecting products, and completing a purchase.
 Payment Flow: Illustrates the interaction between the customer and the payment system, including decision points like payment validation, payment invoice sending.
 Goods Dispatch and Receiving: Illustrates the dispatching of goods from shop after payment confirmation and receiving of goods by customer along with invoice. 
 
-# UML Diagrams
+ UML Diagrams
 
 Use Case Diagram: Representation of customer interactions with the shop, customers and processing payments, dispatching goods, receiving them.
 
